@@ -39,3 +39,6 @@ Example Dataset:
 label	text
 Not Spam	Subject: Meeting at 2pm
 spam	Congratulations! You've won!
+
+This is the spam detector:
+https://spamdetection-email.streamlit.app/ 
